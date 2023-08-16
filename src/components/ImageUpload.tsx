@@ -26,7 +26,7 @@ const ImageUpload: React.FC<ImageUploadProps> = ({ onChange }) => {
       {({ open }) => (
         <div onClick={() => open?.()}>
           <div className="w-[88] flex items-center justify-center shadow-md border p-4 h-[19px] rounded-[88px] bg-[#F0EFFA]">
-            <button>Upload Button</button>
+            <button>Upload Profile</button>
           </div>
         </div>
       )}
