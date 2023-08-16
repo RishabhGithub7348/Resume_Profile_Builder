@@ -362,7 +362,8 @@ export default function ProfilePage() {
                     </div>
 
                     <div className="flex flex-col  lg:ml-8 md:ml-8 p-3 w-[365px] h-[110px] rounded-[4px] border shadow-md border-[#00000026] ">
-                       <div className="flex flex-col gap-[9px]">
+                       <div className="flex flex-col gap-[2px]">
+                        {/* //kjj */}
                        <div className="flex items-center justify-between ">
                         <div>
                            <div className="flex items-center gap-1">
@@ -460,7 +461,7 @@ export default function ProfilePage() {
                </div>
               <div className="col-span-1  shadow-lg lg:shadow-none md:shadow-none rounded-md lg:rounded-none lg:border-none ">
                     <div  className="p-5 ">
-                    <div className="flex flex-col lg:mt-3 md:mt-3 mt-0  p-3 w-[300px] h-[71px] shadow-md rounded-[8px] border border-[#00000026] ">
+                    <div className="flex flex-col lg:mt-2 md:mt-2 mt-0  p-3 w-[300px] h-[71px] shadow-md rounded-[8px] border border-[#00000026] ">
                      <div className="flex items-center justify-center">
                        <div className="flex flex-col gap-1">
                           <div className="flex">
@@ -578,7 +579,7 @@ export default function ProfilePage() {
                     </div>
 
                     
-                    <div className="flex flex-col  mt-2   p-3 w-[300px] h-[71px] ">
+                    <div className="flex flex-col     p-3 w-[300px] h-[71px] ">
                         <div className="flex items-center  justify-between ">
                           
                             <div>
