@@ -1,4 +1,4 @@
-# Oruphone Internship Project - Resume Profile Builder
+# Resume Profile Builder
 
 ![image](https://res.cloudinary.com/ds2fe7xai/image/upload/v1692133031/image_2023-08-16_02-26-12_d02ogv.png)
 
