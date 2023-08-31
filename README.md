@@ -3,7 +3,7 @@
 ![image](https://res.cloudinary.com/ds2fe7xai/image/upload/v1692133031/image_2023-08-16_02-26-12_d02ogv.png)
 
 
-Welcome to the Oruphone Internship Project - Resume Profile Builder GitHub repository! This repository contains the code and documentation for a web-based application that allows users to create and manage their resume profiles. The application is designed to streamline the process of building a professional resume by providing a user-friendly interface for entering and editing personal and professional details.
+Welcome to the Project - Resume Profile Builder GitHub repository! This repository contains the code and documentation for a web-based application that allows users to create and manage their resume profiles. The application is designed to streamline the process of building a professional resume by providing a user-friendly interface for entering and editing personal and professional details.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ Welcome to the Oruphone Internship Project - Resume Profile Builder GitHub repos
 
 ## Introduction
 
-The Oruphone Internship Project is aimed at creating a web application that simplifies the process of resume creation and management. Users can register, log in, and create their personalized resumes with ease.
+The  Project is aimed at creating a web application that simplifies the process of resume creation and management. Users can register, log in, and create their personalized resumes with ease.
 
 ## Features
 
@@ -34,7 +34,7 @@ The Oruphone Internship Project is aimed at creating a web application that simp
 
 ## Getting Started
 
-To get started with the Oruphone Resume Profile Builder, follow these steps:
+To get started with the  Resume Profile Builder, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Oruphone/Resume-Profile-Builder.git`
 2. Navigate to the project directory: `cd Resume-Profile-Builder`
