@@ -74,7 +74,7 @@ We take pride in ensuring that the Oruphone Resume Profile Builder is fully resp
 ## Demo Video
 
 [![Watch the video](https://res.cloudinary.com/ds2fe7xai/image/upload/v1692134037/image_2023-08-16_02-43-37_fedb0z.png
-)](https://www.youtube.com/watch?v=xpejaMXOpgc)
+)](https://youtu.be/wW1C7sRwT3Y)
 
 
 
